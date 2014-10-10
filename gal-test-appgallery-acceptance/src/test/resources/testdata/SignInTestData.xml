@@ -1,0 +1,12 @@
+<!-- <?xml version="1.0" encoding="UTF-8"?> -->
+<map>
+  <entry>
+    <string>validTestUser</string>
+    <UserInfo>
+      <userName>sheelakumari</userName>
+      <password>123$@lds</password>
+       <firstName>Test</firstName>
+      <lastName>User</lastName>
+    </UserInfo>
+  </entry>
+</map>
